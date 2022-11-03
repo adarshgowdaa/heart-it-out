@@ -1,0 +1,107 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+section {
+  margin-top: 5%;
+}
+
+h2 {
+  color: #01818c;
+}
+
+.form-inputs {
+  width: 70%;
+  margin-top: 5%;
+}
+
+.form-btn {
+  background-color: #01818c;
+  font-size: 20px;
+}
+
+
+.accordion-card{
+    text-align: center;
+}
+.accordion-button{
+    background-color:   #F4FBFF;
+}
+
+.accordion-item {
+  background-color: #f4fbff;
+}
+
+.testimonial {
+  background-color: white;
+  width: 100%;
+  padding: 20px;
+  text-align: center;
+}
+
+.carousel-inner {
+  padding: 7% 20%;
+}
+
+.carousel-control-next,
+.carousel-control-prev {
+  background-color: #01818c;
+  border-radius: 100%;
+  width: 50px;
+  height: 50px;
+}
+
+.slide-btn {
+  background-color: #043953;
+}
+
+.carousel-indicators button {
+  width: 10px!important;
+  height: 10px!important;
+  border-radius: 50%;
+}
+
+.carousel-indicators [data-bs-target]{
+  background-color: #043953;
+}
+
+.footer {
+  background-color: #043953;
+  height: 150px;
+}
+
+.card{
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+}
+
+.card-header{
+    background-color: #fff;
+    border: 0;
+    margin: 30px;
+}
+
+.card-body{
+    padding: 16px 0px 0px;
+}
+
+.price-btn{
+    width: 100%;
+border-radius: 0;
+border: 0px;
+margin-top: 10px;
+}
+
+#sec-2 {
+
+  padding: 30px;
+}
+
+#sec-3 {
+  background-color: #ebf7fc;
+  padding: 10px 0;
+}
+
+
